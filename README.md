@@ -30,7 +30,6 @@ llm-fine-tuning-lab/
 ├── INTERVIEW_QUESTIONS.md
 ├── requirements.txt
 ├── .gitignore
-├── LINKEDIN_POST.txt
 └── README.md
 ```
 
