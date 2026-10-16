@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Training artifacts / model weights
+outputs/
+results/
+checkpoint-*/
+adapter_model.safetensors
+pytorch_model.bin
+*.gguf
+
+# Notebook checkpoints
+.ipynb_checkpoints/
