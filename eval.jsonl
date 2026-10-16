@@ -1,0 +1,4 @@
+{"instruction": "Classify this support ticket into one category: account_access, billing, bug_report, feature_request. Return only the category. Ticket: I cannot log in because my account is locked.", "response": "account_access"}
+{"instruction": "Classify this support ticket into one category: account_access, billing, bug_report, feature_request. Return only the category. Ticket: The latest bill has an unexpected fee.", "response": "billing"}
+{"instruction": "Classify this support ticket into one category: account_access, billing, bug_report, feature_request. Return only the category. Ticket: The app shows an error and closes when I upload a file.", "response": "bug_report"}
+{"instruction": "Classify this support ticket into one category: account_access, billing, bug_report, feature_request. Return only the category. Ticket: Could you add a monthly summary email?", "response": "feature_request"}
