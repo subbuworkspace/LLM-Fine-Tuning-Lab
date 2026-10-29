@@ -58,4 +58,4 @@
 45. **The model becomes less safe after tuning. What do you do?** Stop rollout, evaluate failure modes, improve data and safeguards, retrain/test and retain rollback capability.
 
 ## Strong answer structure
-Use: **problem → alternatives → data → method → baseline → evaluation → trade-offs → deployment/monitoring**. Interviewers value justified decisions and measured outcomes more than memorized library syntax.
+Use: **problem → alternatives → data → method → baseline → evaluation → trade-offs → deployment/monitoring**. Interviewers  justified decisions and measured outcomes more than memorized library syntax.
